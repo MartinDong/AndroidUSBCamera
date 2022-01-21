@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">USBCamera</string>
+
+
+    <string name="pre_name">上一张</string>
+    <string name="next_name">下一张</string>
 </resources>

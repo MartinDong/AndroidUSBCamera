@@ -21,6 +21,7 @@ android {
         sourceCompatibility rootProject.ext.javaSourceCompatibility
         targetCompatibility rootProject.ext.javaTargetCompatibility
     }
+    ndkVersion '16.1.4479499'
 }
 
 dependencies {
